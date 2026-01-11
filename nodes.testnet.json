@@ -20,21 +20,23 @@
     "api_path": "/api/v1",
     "public_key": "19084ea27574f1bfc7c723348e379c908933c590871e5d875766b0ed256bba1c",
     "node_id": 818258938113,
-    "scanned": "2026-01-11T13:13:56.467812Z",
-    "heartbeat": "2026-01-11T13:13:20.561745Z",
+    "scanned": "2026-01-11T13:46:43.013307Z",
+    "heartbeat": "2026-01-11T13:46:41.543595Z",
     "health_check": "2026-01-10T11:20:55.818241Z",
     "version": "1.0.59",
     "uptime": 99,
     "limit": 100,
     "upload": 101,
     "download": 853,
-    "disk": 25.54,
-    "mem": 32.44,
+    "disk": 25.53,
+    "mem": 32.98,
     "cpu": 0.0,
-    "uptime_sec": 2254935,
-    "net_download": 1620,
-    "net_upload": 0,
-    "users": 0
+    "uptime_sec": 2256936,
+    "net_download": 1680,
+    "net_upload": 1168,
+    "users": 0,
+    "label": null,
+    "tags": []
   },
   {
     "address": "EQC5jJvUo4wWkYswWwpYMotUscJmwwGGEcjfhhYSJ3mplaN-",
@@ -57,8 +59,8 @@
     "api_path": "/api/v1",
     "public_key": "7433c3526a817dcacb09422e8d22ae9b81b4308bd00999cf74803d2485c2155e",
     "node_id": 2048171856816,
-    "scanned": "2026-01-11T13:13:56.463466Z",
-    "heartbeat": "2026-01-11T13:13:52.225655Z",
+    "scanned": "2026-01-11T13:46:43.008550Z",
+    "heartbeat": "2026-01-11T13:45:17.295859Z",
     "health_check": "2026-01-10T11:20:55.784283Z",
     "version": "1.0.57",
     "uptime": 99,
@@ -66,12 +68,14 @@
     "upload": 74,
     "download": 951,
     "disk": 23.76,
-    "mem": 32.11,
+    "mem": 31.39,
     "cpu": 0.0,
-    "uptime_sec": 2254966,
+    "uptime_sec": 2256851,
     "net_download": 120,
     "net_upload": 0,
-    "users": 0
+    "users": 0,
+    "label": null,
+    "tags": []
   },
   {
     "address": "EQBMGGL-vJpe8h4innpJnbPZI0hqcqcDHNLkHdsAoshTRXCh",
@@ -94,21 +98,23 @@
     "api_path": "/api/v1",
     "public_key": "00b25ec5a345efd7e63f0c58264a072136a6b18ec8c698ceb5d645140768938c",
     "node_id": 6581508398150,
-    "scanned": "2026-01-11T13:13:56.458970Z",
-    "heartbeat": "2026-01-11T13:13:45.464124Z",
-    "health_check": "2026-01-11T13:13:06.004191Z",
+    "scanned": "2026-01-11T13:46:43.003435Z",
+    "heartbeat": "2026-01-11T13:45:26.467732Z",
+    "health_check": "2026-01-11T13:46:00.162834Z",
     "version": "1.0.76",
     "uptime": 102,
     "limit": 100,
     "upload": 37,
     "download": 227,
     "disk": 24.86,
-    "mem": 31.49,
-    "cpu": 0.01,
-    "uptime_sec": 114291,
-    "net_download": 0,
-    "net_upload": 0,
-    "users": 0
+    "mem": 32.19,
+    "cpu": 0.17,
+    "uptime_sec": 116192,
+    "net_download": 1168,
+    "net_upload": 1696,
+    "users": 0,
+    "label": null,
+    "tags": []
   },
   {
     "address": "EQB0lt5ZvefHPdnqXeva0WrS3xRx0A94vjqTIxmfONTLExPX",
@@ -131,21 +137,23 @@
     "api_path": "/api/v1",
     "public_key": "6ae43a5e2d804ed6938bec6525ab347c3b8fe87ed5b7dc0ce26472a293c775d5",
     "node_id": 483381758148,
-    "scanned": "2026-01-11T13:13:56.454629Z",
-    "heartbeat": "2026-01-11T13:13:29.071887Z",
+    "scanned": "2026-01-11T13:46:42.998455Z",
+    "heartbeat": "2026-01-11T13:45:51.069630Z",
     "health_check": "2026-01-10T01:18:40.193923Z",
     "version": "1.0.73",
     "uptime": 97,
     "limit": 100,
     "upload": 368,
     "download": 684,
-    "disk": 75.5,
-    "mem": 22.06,
+    "disk": 75.46,
+    "mem": 22.43,
     "cpu": 0.0,
-    "uptime_sec": 128525,
+    "uptime_sec": 130467,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0
+    "users": 0,
+    "label": null,
+    "tags": []
   },
   {
     "address": "EQA9-e0W6bPXr6Bnm5jH69dr0u1fyyf0SWGLEKFCEGjDsnbS",
@@ -168,21 +176,23 @@
     "api_path": "/api/v1",
     "public_key": "fa7419d8284cc7de6b19989a83b3b2840e18aa4e4ed0a0d5217c7b7ec1f148bd",
     "node_id": 150824682188190,
-    "scanned": "2026-01-11T13:13:56.449680Z",
-    "heartbeat": "2026-01-11T13:13:50.035641Z",
+    "scanned": "2026-01-11T13:46:42.991572Z",
+    "heartbeat": "2026-01-11T13:46:12.992669Z",
     "health_check": "2026-01-10T11:20:55.405019Z",
     "version": "1.0.59",
     "uptime": 99,
     "limit": 100,
     "upload": 47,
     "download": 3,
-    "disk": 28.66,
-    "mem": 33.14,
-    "cpu": 0.06,
-    "uptime_sec": 2254964,
-    "net_download": 3832,
-    "net_upload": 184,
-    "users": 0
+    "disk": 28.65,
+    "mem": 33.1,
+    "cpu": 0.1,
+    "uptime_sec": 2256907,
+    "net_download": 1532,
+    "net_upload": 0,
+    "users": 0,
+    "label": null,
+    "tags": []
   },
   {
     "address": "EQBySkilccB1cKmZs2LtvwxgBhviqsJ1yNzd_3Gw5zq7tKaP",
@@ -219,7 +229,14 @@
     "uptime_sec": 36736,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0
+    "users": 0,
+    "label": "\u041c\u043e\u0441\u043a\u0432\u0430 - \u041e\u0431\u0445\u043e\u0434 #1 \ud83c\udf7f",
+    "tags": [
+      {
+        "name": "RU - HOP",
+        "value": "ru-hop"
+      }
+    ]
   },
   {
     "address": "EQBlO5vbCpV1wl1H3muhe711xUdIIMdjfOTGKMlRHpDpBQLG",
@@ -256,7 +273,9 @@
     "uptime_sec": 53129,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0
+    "users": 0,
+    "label": null,
+    "tags": []
   },
   {
     "address": "EQBhDFQNO3OuZ8i27hoq5OmWGxjVk-zZQqarKr-Z_asC4Lp1",
@@ -293,7 +312,9 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0
+    "users": 0,
+    "label": null,
+    "tags": []
   },
   {
     "address": "EQAmaXta2cc34-P6tiw5L7hj0yvVzVWTZXnQTw9oj5jzxiUL",
@@ -317,20 +338,22 @@
     "public_key": "912deb18762774d680a94016369f61b527db59f5dc29e7cb9b8064384d940eb6",
     "node_id": 8183783481,
     "scanned": "2026-01-10T08:38:08.552998Z",
-    "heartbeat": "2026-01-11T13:13:47.927869Z",
-    "health_check": "2026-01-11T13:13:04.471955Z",
+    "heartbeat": "2026-01-11T13:45:37.908660Z",
+    "health_check": "2026-01-11T13:45:58.131104Z",
     "version": "1.0.73",
     "uptime": 106,
     "limit": 100,
     "upload": 308,
     "download": 1202,
-    "disk": 45.25,
-    "mem": 24.74,
+    "disk": 45.24,
+    "mem": 28.07,
     "cpu": 0.0,
-    "uptime_sec": 115472,
+    "uptime_sec": 117382,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0
+    "users": 0,
+    "label": null,
+    "tags": []
   },
   {
     "address": "EQBvD_zzUdgqK9RfVUifwRRtjwsRQHqrf3XdgaHRCmSOblZT",
@@ -367,6 +390,8 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0
+    "users": 0,
+    "label": null,
+    "tags": []
   }
 ]
