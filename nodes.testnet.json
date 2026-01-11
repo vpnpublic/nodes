@@ -20,8 +20,8 @@
     "api_path": "/api/v1",
     "public_key": "19084ea27574f1bfc7c723348e379c908933c590871e5d875766b0ed256bba1c",
     "node_id": 818258938113,
-    "scanned": "2026-01-11T16:47:06.279684Z",
-    "heartbeat": "2026-01-11T16:46:26.540370Z",
+    "scanned": "2026-01-11T16:59:50.458074Z",
+    "heartbeat": "2026-01-11T16:58:27.580188Z",
     "health_check": "2026-01-10T11:20:55.818241Z",
     "version": "1.0.59",
     "uptime": 99,
@@ -29,14 +29,12 @@
     "upload": 101,
     "download": 853,
     "disk": 25.57,
-    "mem": 31.73,
-    "cpu": 0.0,
-    "uptime_sec": 2267721,
-    "net_download": 2640,
-    "net_upload": 352,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "mem": 31.72,
+    "cpu": 0.08,
+    "uptime_sec": 2268442,
+    "net_download": 1872,
+    "net_upload": 1756,
+    "users": 0
   },
   {
     "address": "EQC5jJvUo4wWkYswWwpYMotUscJmwwGGEcjfhhYSJ3mplaN-",
@@ -59,8 +57,8 @@
     "api_path": "/api/v1",
     "public_key": "7433c3526a817dcacb09422e8d22ae9b81b4308bd00999cf74803d2485c2155e",
     "node_id": 2048171856816,
-    "scanned": "2026-01-11T16:47:06.275851Z",
-    "heartbeat": "2026-01-11T16:46:38.262375Z",
+    "scanned": "2026-01-11T16:59:50.454150Z",
+    "heartbeat": "2026-01-11T16:58:43.262386Z",
     "health_check": "2026-01-10T11:20:55.784283Z",
     "version": "1.0.57",
     "uptime": 99,
@@ -68,14 +66,12 @@
     "upload": 74,
     "download": 951,
     "disk": 23.76,
-    "mem": 31.08,
+    "mem": 31.33,
     "cpu": 0.0,
-    "uptime_sec": 2267732,
-    "net_download": 790,
-    "net_upload": 1120,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "uptime_sec": 2268457,
+    "net_download": 1132,
+    "net_upload": 1856,
+    "users": 0
   },
   {
     "address": "EQBMGGL-vJpe8h4innpJnbPZI0hqcqcDHNLkHdsAoshTRXCh",
@@ -98,28 +94,21 @@
     "api_path": "/api/v1",
     "public_key": "00b25ec5a345efd7e63f0c58264a072136a6b18ec8c698ceb5d645140768938c",
     "node_id": 6581508398150,
-    "scanned": "2026-01-11T16:47:06.271056Z",
-    "heartbeat": "2026-01-11T16:46:38.650765Z",
-    "health_check": "2026-01-11T16:46:52.282541Z",
+    "scanned": "2026-01-11T16:59:50.451216Z",
+    "heartbeat": "2026-01-11T16:59:42.542450Z",
+    "health_check": "2026-01-11T16:59:31.578879Z",
     "version": "1.0.76",
     "uptime": 103,
     "limit": 100,
     "upload": 37,
     "download": 227,
-    "disk": 24.86,
-    "mem": 31.53,
-    "cpu": 0.38,
-    "uptime_sec": 127064,
-    "net_download": 0,
-    "net_upload": 0,
-    "users": 0,
-    "label": "\u041c\u043e\u0441\u043a\u0432\u0430 - \u041e\u0431\u0445\u043e\u0434 #1 \ud83c\udf7f",
-    "tags": [
-      {
-        "name": "RU - HOP",
-        "value": "ru-hop"
-      }
-    ]
+    "disk": 25.88,
+    "mem": 31.43,
+    "cpu": 0.61,
+    "uptime_sec": 256,
+    "net_download": 1168,
+    "net_upload": 1696,
+    "users": 0
   },
   {
     "address": "EQB0lt5ZvefHPdnqXeva0WrS3xRx0A94vjqTIxmfONTLExPX",
@@ -142,23 +131,21 @@
     "api_path": "/api/v1",
     "public_key": "6ae43a5e2d804ed6938bec6525ab347c3b8fe87ed5b7dc0ce26472a293c775d5",
     "node_id": 483381758148,
-    "scanned": "2026-01-11T16:47:06.259889Z",
-    "heartbeat": "2026-01-11T16:46:06.077600Z",
+    "scanned": "2026-01-11T16:59:50.447621Z",
+    "heartbeat": "2026-01-11T16:59:08.521263Z",
     "health_check": "2026-01-10T01:18:40.193923Z",
     "version": "1.0.73",
     "uptime": 97,
     "limit": 100,
     "upload": 368,
     "download": 684,
-    "disk": 75.56,
-    "mem": 22.8,
-    "cpu": 0.0,
-    "uptime_sec": 141282,
-    "net_download": 42,
-    "net_upload": 42,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "disk": 80.74,
+    "mem": 28.14,
+    "cpu": 0.1,
+    "uptime_sec": 2,
+    "net_download": 412812,
+    "net_upload": 183899,
+    "users": 0
   },
   {
     "address": "EQA9-e0W6bPXr6Bnm5jH69dr0u1fyyf0SWGLEKFCEGjDsnbS",
@@ -181,8 +168,8 @@
     "api_path": "/api/v1",
     "public_key": "fa7419d8284cc7de6b19989a83b3b2840e18aa4e4ed0a0d5217c7b7ec1f148bd",
     "node_id": 150824682188190,
-    "scanned": "2026-01-11T16:47:06.254229Z",
-    "heartbeat": "2026-01-11T16:46:21.989661Z",
+    "scanned": "2026-01-11T16:59:50.441735Z",
+    "heartbeat": "2026-01-11T16:59:25.705423Z",
     "health_check": "2026-01-10T11:20:55.405019Z",
     "version": "1.0.59",
     "uptime": 99,
@@ -190,14 +177,12 @@
     "upload": 47,
     "download": 3,
     "disk": 28.68,
-    "mem": 33.24,
+    "mem": 33.18,
     "cpu": 0.0,
-    "uptime_sec": 2267716,
-    "net_download": 3522,
-    "net_upload": 3250,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "uptime_sec": 2268499,
+    "net_download": 3168,
+    "net_upload": 74,
+    "users": 0
   },
   {
     "address": "EQDY_NQTaVHG9oPwKmWzD8AG-jyF8bkJnYEcay9HU-N7MUC6",
@@ -234,9 +219,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQDYWBXU-nPoWt4FUJNsdQ2Rjfyi8Lf3ufzZcqoA47S1oJob",
@@ -273,9 +256,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQDW1FDkKA2rNDJco73gfyhzg-OT4_zd18SJJ-kSUttk2iw2",
@@ -312,9 +293,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQDLxyuDZq4sehjcLPoQyuRfiUgXmziUyryFlvIYOroHDR68",
@@ -351,9 +330,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQDL0afjDYt6NeSsNfZcjDSc-Z4BcbWx9_Ru74V2qO2jFbsS",
@@ -390,9 +367,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQDHjCp-m9VlNtnLoExuDDkZVwZvGa_RpdqnrkUIuTUWa9qJ",
@@ -429,9 +404,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQDF6UK5d3F9hMcPBdqxgHwnpDyFi8FjZpV2dKGMQeCCqsTd",
@@ -468,9 +441,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQDECbc-9-D4C9n_0vWrJievcsqjRnj2Rl7T55xHaj0We6hp",
@@ -507,9 +478,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQDCu-7klU0X0BJ09Atn3zT2WEgzYMYGJ49wTJUY1YEGpJsz",
@@ -546,9 +515,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQCyb86IFCSv0V-34dDJ60M0VmiX0V98-x9wUEsc8Ot5cUqA",
@@ -585,9 +552,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQCu8Ot-tqwpEsCoyZ9ETio7IdajO6N9RleQQI0gYlfE32iU",
@@ -624,9 +589,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQCtnkqwy_YnMUGZRUgRwTW_r-mN-4G-hRp4Ql-HUJFaf-Lv",
@@ -663,14 +626,7 @@
     "uptime_sec": 36736,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": "\u041c\u043e\u0441\u043a\u0432\u0430 - \u041e\u0431\u0445\u043e\u0434 #1 \ud83c\udf7f",
-    "tags": [
-      {
-        "name": "RU - HOP",
-        "value": "ru-hop"
-      }
-    ]
+    "users": 0
   },
   {
     "address": "EQCqi6Q5WcPFxlbPrJe9bJdWTEDlsMmXAyOofS-xE4a3l_xL",
@@ -707,9 +663,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQCqceS85bJxzw9vvGLt1BQKE9ksGyF92TB_xDEjCrv0Zflt",
@@ -746,9 +700,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQCpic66nMCZEdlY5km-G1WEStMc0TixjDryR9xr4sYak9Z8",
@@ -785,9 +737,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQCh62hRqIdrScgjkK2_oTpWxbIDq8rbdxaJfk1-jphYx-9m",
@@ -824,9 +774,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQCewYpuM1MHfd2rTRj9A3hD9DtnRAN8ZxwqpyFci35TIREe",
@@ -863,9 +811,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQC_OixabG38UTl5_BieOgNN1SIqyiTF__yDNUUjOWgUJtaq",
@@ -902,9 +848,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQCZuoCexjY1kcZU2WfX0gvF6FxBoLus_5AZynnBJo-yyVIt",
@@ -941,9 +885,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQCMcqrmilVa_FuOWkmzDhW3uE8W1qYcjUjKuCnRb8YCFeVE",
@@ -980,9 +922,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQCJLajK__ywESlcb7y4LPYKhQ5_reEsBIgJ1H5kLrabqRDF",
@@ -1019,9 +959,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQCD91G8iBlPgxpYjG8VwUSPISctk23ietrQud6k3shLhB2B",
@@ -1058,9 +996,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQCCToAzndSObG-QUiWcN91i1IOz-QNUcKvnUVAI22EWVCyD",
@@ -1097,9 +1033,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQC2v2x1GvOtiR79_KjfPVC4y2Ed8-m8f1FFViEafrScZb7n",
@@ -1136,9 +1070,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQC2Ps3tmhh-YFZKBvLUoGHs-nNjTJ9UXBejOWhlyuyKEMrk",
@@ -1175,9 +1107,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQBt8ZN2JrLprMbqqdCo7LGtbo3ad1kLIDnt1nVk64r0dj_e",
@@ -1214,9 +1144,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQBpTRz7I8_W2Ur1PUSHKQQNRBKjP8sMf8qfE7QW5RljN2pG",
@@ -1253,9 +1181,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQBdgPz55SOkXKcU-rpEBKDonKW_Ump4d5ze1rY62l8Hgnky",
@@ -1292,9 +1218,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQBbOQOe_nAHDum6U0fwEzTHOoGNrnov57PkmUbiLmh6QRhs",
@@ -1331,9 +1255,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQBZjNYHsVApDztRi3IlPFQMYwVUFE9_qV96AbZAjZgWzPeQ",
@@ -1370,9 +1292,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQBWFfOedOenmFOofyNV170pcK3C-tFKFvIHJXYe_OCT-vKG",
@@ -1409,9 +1329,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQBW5A-PqwNST9XBG374Y-1fd_-RgY547mGhbfe4H6aVPDTP",
@@ -1448,9 +1366,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQBRv1vDYL0fkotme954A8JLv9CxR6nfZYH6V6jHGsl_6szf",
@@ -1487,9 +1403,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQBOT_FLsM_obKcfIBubvM1Eu9-bTHQG17t-FfBdLG4mw7mq",
@@ -1526,9 +1440,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQBBk3gSSbfMR0ZiQVdVSqIucBhUeE9l1USNX6UEDyDImA9V",
@@ -1565,9 +1477,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQB5AES-3opIVQiff1oKouoBzpddzPD07DWpbus4qbXlVK0J",
@@ -1604,9 +1514,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQAwbyxGsZ4QovOj2MxUM_SRBUqfXAAH24BBaT7IDATdWIq0",
@@ -1643,9 +1551,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQAv3s7q5j2ye4LzUEGjN9a1TktzBSXiFYtuZ_1X0kgj_nh_",
@@ -1682,9 +1588,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQAps5vk0j5nkLMqmMQphpVj1xPAJ_HyWf5KqMvPvhn4j2Oi",
@@ -1721,9 +1625,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQApVuzwNe9tCv8d4JKrkPsb3Qit44DZ9GZKPaR15-pXPgfK",
@@ -1760,9 +1662,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQAhpTPcvnamDetn_e5-4-76Ea0HatE7YLAF7r5G-Fd-fjMp",
@@ -1799,9 +1699,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQAfwxqts_LkQ-sz-yHPHgZ2hOGIvUUmA9o28M53aaq0Yq54",
@@ -1838,9 +1736,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQAazcUfifDxZ6unZ2iKmk4za2oO3ywfIjFDGBS74ZeqplFL",
@@ -1877,9 +1773,7 @@
     "uptime_sec": 53129,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQAZD3wKSZty42S5sjr-heGVviKuagvs3eSSdidgDCJzCjqF",
@@ -1916,9 +1810,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQAVCDnraW14_R8kxLyYmBgXiM90F49jPg6mak5vOzfCLUn2",
@@ -1955,9 +1847,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQAUz10Wo6PJErWe4VWP-S_cpG9OzKUgm__unWglrKTKI0MY",
@@ -1994,9 +1884,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQAT2Pu9CP5uged0Hxlqg4mZW_4DnESGIuA1FCTRGGbcLMNi",
@@ -2033,9 +1921,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQAQ8b9DzI1T4Fym3ehMicmqcXgLsdyuoJ1u7r1VEpg98Xu_",
@@ -2072,9 +1958,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQAI8syQlrPpMMdc04Zrko641N0HybWHtQHT7DiSNOQL8HuD",
@@ -2111,9 +1995,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQA9dmqNsfQTEMISX_Ofz0w-HLJPX1T4pjFrh6GnXiboNMg2",
@@ -2150,9 +2032,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQA5PJfGeGWabzedTBdfVgHd4-EHmlLbbQbrXM85aKGsDRQD",
@@ -2189,9 +2069,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQA1mmLpzwEaU1Z_xGVTBoZoEMz0Q4XR896XKngZmpZNYezp",
@@ -2228,9 +2106,7 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQAmaXta2cc34-P6tiw5L7hj0yvVzVWTZXnQTw9oj5jzxiUL",
@@ -2254,22 +2130,20 @@
     "public_key": "912deb18762774d680a94016369f61b527db59f5dc29e7cb9b8064384d940eb6",
     "node_id": 8183783481,
     "scanned": "2026-01-10T08:38:08.552998Z",
-    "heartbeat": "2026-01-11T16:47:03.934108Z",
-    "health_check": "2026-01-11T16:46:50.768773Z",
+    "heartbeat": "2026-01-11T16:59:24.914225Z",
+    "health_check": "2026-01-11T16:59:31.009860Z",
     "version": "1.0.73",
-    "uptime": 107,
+    "uptime": 108,
     "limit": 100,
     "upload": 308,
     "download": 1202,
     "disk": 45.28,
-    "mem": 28.2,
-    "cpu": 0.0,
-    "uptime_sec": 128268,
+    "mem": 27.5,
+    "cpu": 0.07,
+    "uptime_sec": 129009,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   },
   {
     "address": "EQBvD_zzUdgqK9RfVUifwRRtjwsRQHqrf3XdgaHRCmSOblZT",
@@ -2306,8 +2180,6 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "users": 0,
-    "label": null,
-    "tags": []
+    "users": 0
   }
 ]
