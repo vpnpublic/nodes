@@ -20,7 +20,7 @@
     "api_path": "/api/v1",
     "public_key": "19084ea27574f1bfc7c723348e379c908933c590871e5d875766b0ed256bba1c",
     "node_id": 818258938113,
-    "scanned": "2026-01-22T01:49:34.905560Z",
+    "scanned": "2026-01-22T02:24:07.790423Z",
     "heartbeat": "2026-01-21T04:59:23.677569Z",
     "health_check": null,
     "version": "1.0.59",
@@ -34,6 +34,7 @@
     "uptime_sec": 4775,
     "net_download": 889,
     "net_upload": 582,
+    "monthly_traffic": 0,
     "users": 0
   },
   {
@@ -57,7 +58,7 @@
     "api_path": "/api/v1",
     "public_key": "7433c3526a817dcacb09422e8d22ae9b81b4308bd00999cf74803d2485c2155e",
     "node_id": 2048171856816,
-    "scanned": "2026-01-22T01:49:34.902684Z",
+    "scanned": "2026-01-22T02:24:07.322084Z",
     "heartbeat": "2026-01-21T04:59:16.841831Z",
     "health_check": null,
     "version": "1.0.57",
@@ -71,6 +72,7 @@
     "uptime_sec": 4766,
     "net_download": 816,
     "net_upload": 396,
+    "monthly_traffic": 0,
     "users": 0
   },
   {
@@ -94,7 +96,7 @@
     "api_path": "/api/v1",
     "public_key": "f58ddb24e2c985b3086ab08f84047ce85ef0a7dbb58f82a6fe56c0343484123c",
     "node_id": 6581508398150,
-    "scanned": "2026-01-22T01:49:34.899850Z",
+    "scanned": "2026-01-22T02:24:07.008085Z",
     "heartbeat": "2026-01-21T04:59:11.692206Z",
     "health_check": "2026-01-21T04:59:01.320200Z",
     "version": "1.0.88",
@@ -108,6 +110,7 @@
     "uptime_sec": 4745,
     "net_download": 5051,
     "net_upload": 926,
+    "monthly_traffic": 0,
     "users": 0
   },
   {
@@ -131,7 +134,7 @@
     "api_path": "/api/v1",
     "public_key": "7393780ed3036be862318a1f24d17aaa1bbea1c1fad73795ba0478c4c1b69cca",
     "node_id": 483381758148,
-    "scanned": "2026-01-22T01:49:34.896681Z",
+    "scanned": "2026-01-22T02:24:06.994791Z",
     "heartbeat": "2026-01-21T04:58:57.732204Z",
     "health_check": "2026-01-21T04:58:59.785595Z",
     "version": "1.0.88",
@@ -145,6 +148,7 @@
     "uptime_sec": 562656,
     "net_download": 7458,
     "net_upload": 692,
+    "monthly_traffic": 0,
     "users": 0
   },
   {
@@ -168,7 +172,7 @@
     "api_path": "/api/v1",
     "public_key": "fa7419d8284cc7de6b19989a83b3b2840e18aa4e4ed0a0d5217c7b7ec1f148bd",
     "node_id": 150824682188190,
-    "scanned": "2026-01-22T01:49:34.890946Z",
+    "scanned": "2026-01-22T02:24:06.660209Z",
     "heartbeat": "2026-01-21T04:59:07.781457Z",
     "health_check": null,
     "version": "1.0.59",
@@ -182,6 +186,7 @@
     "uptime_sec": 4749,
     "net_download": 83108,
     "net_upload": 6962,
+    "monthly_traffic": 0,
     "users": 0
   }
 ]
