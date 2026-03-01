@@ -20,7 +20,7 @@
     "api_path": "/api/v1",
     "public_key": "ac4f0bf9cf736c651523c52b3175ba0b9c1b43568213ada1a18878c661872e00",
     "node_id": 192812381208148,
-    "scanned": "2026-03-01T13:13:47.558102Z",
+    "scanned": "2026-03-01T14:16:03.454052Z",
     "heartbeat": "2026-02-03T03:55:57.656013Z",
     "health_check": "2026-02-03T03:56:33.868768Z",
     "version": "1.1.4",
@@ -34,8 +34,8 @@
     "uptime_sec": 319408,
     "net_download": 20097,
     "net_upload": 24651,
-    "traffic_users": 1006633614438,
-    "traffic_node": 4923264663857,
+    "traffic_users": 1012103429067,
+    "traffic_node": 4948082458687,
     "users": 0
   },
   {
@@ -59,7 +59,7 @@
     "api_path": "/api/v1",
     "public_key": "115b6e95aa7ed4fe1221822b148a6be6b7e466bccc1f8bddc265066b2d6da9d2",
     "node_id": 8182184987,
-    "scanned": "2026-03-01T13:13:45.977175Z",
+    "scanned": "2026-03-01T14:16:01.675541Z",
     "heartbeat": null,
     "health_check": null,
     "version": "1.1.4",
@@ -73,8 +73,8 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "traffic_users": 427970865161,
-    "traffic_node": 1201553107333,
+    "traffic_users": 434912732338,
+    "traffic_node": 1220619477109,
     "users": 0
   },
   {
@@ -98,7 +98,7 @@
     "api_path": "/api/v1",
     "public_key": "38ee30de71a8452ac39f863f06fa3351af319836f81b4aa90b0482835ba9f1ce",
     "node_id": 48179845829,
-    "scanned": "2026-03-01T13:13:44.584139Z",
+    "scanned": "2026-03-01T14:15:59.622767Z",
     "heartbeat": "2026-02-03T03:56:12.254699Z",
     "health_check": "2026-02-03T03:56:34.275392Z",
     "version": "1.1.4",
@@ -112,8 +112,8 @@
     "uptime_sec": 326592,
     "net_download": 8420,
     "net_upload": 2318,
-    "traffic_users": 2553753614449,
-    "traffic_node": 6381837385340,
+    "traffic_users": 2565736326261,
+    "traffic_node": 6412227373966,
     "users": 1
   },
   {
@@ -137,7 +137,7 @@
     "api_path": "/api/v1",
     "public_key": "8082620a175c8d4e707848125085696e7703e14d7530368bf4ec8ff6cf9141b2",
     "node_id": 81821852838,
-    "scanned": "2026-03-01T13:13:40.144210Z",
+    "scanned": "2026-03-01T14:15:55.695965Z",
     "heartbeat": "2026-02-03T03:55:25.546947Z",
     "health_check": "2026-02-03T03:56:33.103596Z",
     "version": "1.1.4",
@@ -151,8 +151,8 @@
     "uptime_sec": 326543,
     "net_download": 34926,
     "net_upload": 3718,
-    "traffic_users": 259876370570,
-    "traffic_node": 783154559249,
+    "traffic_users": 262991366692,
+    "traffic_node": 790755796251,
     "users": 0
   },
   {
@@ -176,7 +176,7 @@
     "api_path": "/api/v1",
     "public_key": "8fdfadb3e23aa382f4c98127833e4978f8ba7ac3ab839c9f52d4890a68943322",
     "node_id": 1928246872842,
-    "scanned": "2026-03-01T13:13:38.086508Z",
+    "scanned": "2026-03-01T14:15:53.409863Z",
     "heartbeat": "2026-02-03T03:56:04.189423Z",
     "health_check": "2026-02-03T03:56:34.987234Z",
     "version": "1.1.4",
@@ -190,8 +190,8 @@
     "uptime_sec": 310789,
     "net_download": 522,
     "net_upload": 204,
-    "traffic_users": 184598710356,
-    "traffic_node": 981212109616,
+    "traffic_users": 185105533121,
+    "traffic_node": 983029880107,
     "users": 1
   },
   {
@@ -215,7 +215,7 @@
     "api_path": "/api/v1",
     "public_key": "30ae5c52e4b2969502dd80e79e8b14e6c7199b2e9752935d262facaca3b21cf5",
     "node_id": 18482528116869,
-    "scanned": "2026-03-01T13:13:36.862411Z",
+    "scanned": "2026-03-01T14:15:51.456765Z",
     "heartbeat": "2026-02-03T03:55:50.218193Z",
     "health_check": "2026-02-03T03:56:30.991394Z",
     "version": "1.1.4",
@@ -229,8 +229,8 @@
     "uptime_sec": 326571,
     "net_download": 719814,
     "net_upload": 758087,
-    "traffic_users": 1032727857090,
-    "traffic_node": 3373011347755,
+    "traffic_users": 1033792105874,
+    "traffic_node": 3376356948247,
     "users": 4
   },
   {
@@ -254,7 +254,7 @@
     "api_path": "/api/v1",
     "public_key": "3548eaf740c60c7e277a75abd085c409f112d70dcfb972735977ab8bbeb4cbb2",
     "node_id": 184825281178233,
-    "scanned": "2026-03-01T13:13:35.267737Z",
+    "scanned": "2026-03-01T14:15:49.800584Z",
     "heartbeat": "2026-02-03T03:56:15.563167Z",
     "health_check": "2026-02-03T03:56:35.086297Z",
     "version": "1.1.4",
@@ -268,8 +268,8 @@
     "uptime_sec": 320729,
     "net_download": 387641,
     "net_upload": 372655,
-    "traffic_users": 1317790610862,
-    "traffic_node": 3665229847654,
+    "traffic_users": 1320823209978,
+    "traffic_node": 3672815707673,
     "users": 3
   },
   {
@@ -293,7 +293,7 @@
     "api_path": "/api/v1",
     "public_key": "de3c25061253cc23b31a4dc8b6f8049b2dca6ce3a1d7df52cb657c77a6bbc284",
     "node_id": 20582368106825,
-    "scanned": "2026-03-01T13:13:34.654140Z",
+    "scanned": "2026-03-01T14:15:49.068105Z",
     "heartbeat": "2026-02-03T03:56:14.974576Z",
     "health_check": "2026-02-03T03:56:34.096648Z",
     "version": "1.1.4",
@@ -307,8 +307,8 @@
     "uptime_sec": 324827,
     "net_download": 10057,
     "net_upload": 9528,
-    "traffic_users": 121859575181,
-    "traffic_node": 552216800471,
+    "traffic_users": 122404562490,
+    "traffic_node": 554667975980,
     "users": 1
   },
   {
@@ -332,7 +332,7 @@
     "api_path": "/api/v1",
     "public_key": "75cbb24907c2cab2e0022611e9e502ea0d07d9f68e14f647c95f9075dc57eb41",
     "node_id": 848191855894,
-    "scanned": "2026-03-01T13:13:24.636114Z",
+    "scanned": "2026-03-01T14:15:39.043081Z",
     "heartbeat": null,
     "health_check": null,
     "version": "1.1.4",
@@ -371,7 +371,7 @@
     "api_path": "/api/v1",
     "public_key": "27fc7ff150dd726129385d842989efc775b12a38817fc9dd90fb1ed403419aae",
     "node_id": 17282078508125,
-    "scanned": "2026-03-01T13:13:23.406283Z",
+    "scanned": "2026-03-01T14:15:37.434070Z",
     "heartbeat": null,
     "health_check": null,
     "version": "1.1.4",
@@ -385,8 +385,8 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "traffic_users": 1378094498302,
-    "traffic_node": 4057135704189,
+    "traffic_users": 1382301132331,
+    "traffic_node": 4068965870027,
     "users": 0
   },
   {
@@ -410,7 +410,7 @@
     "api_path": "/api/v1",
     "public_key": "5e921e4eeafd816189da3278173d9a253870c0af0199db7e6d51687101c9e144",
     "node_id": 11781938238860,
-    "scanned": "2026-03-01T13:13:22.768378Z",
+    "scanned": "2026-03-01T14:15:36.397764Z",
     "heartbeat": "2026-02-03T03:56:29.946319Z",
     "health_check": "2026-02-03T03:56:28.193716Z",
     "version": "1.1.4",
@@ -424,8 +424,8 @@
     "uptime_sec": 322193,
     "net_download": 32666,
     "net_upload": 32777,
-    "traffic_users": 411375482024,
-    "traffic_node": 1136925526693,
+    "traffic_users": 412344358901,
+    "traffic_node": 1139557223794,
     "users": 3
   },
   {
@@ -449,7 +449,7 @@
     "api_path": "/api/v1",
     "public_key": "9a973df141018037229ffb2dda62443fb6dfb51710a204ac5e52e828d271ffa2",
     "node_id": 9082448226838,
-    "scanned": "2026-03-01T13:13:21.297690Z",
+    "scanned": "2026-03-01T14:15:34.139628Z",
     "heartbeat": "2026-02-03T03:56:09.096787Z",
     "health_check": "2026-02-03T03:56:34.578446Z",
     "version": "1.1.4",
@@ -463,8 +463,8 @@
     "uptime_sec": 280817,
     "net_download": 0,
     "net_upload": 198,
-    "traffic_users": 219121486300,
-    "traffic_node": 1085252152898,
+    "traffic_users": 219777552477,
+    "traffic_node": 1088581638244,
     "users": 1
   },
   {
@@ -488,7 +488,7 @@
     "api_path": "/api/v1",
     "public_key": "ace1db89f5d3c6f0454ff67fefc5f4166f78337c4f04d0fe456a846e48430b0f",
     "node_id": 448143848856,
-    "scanned": "2026-03-01T13:13:20.180410Z",
+    "scanned": "2026-03-01T14:15:32.615962Z",
     "heartbeat": null,
     "health_check": null,
     "version": "1.1.4",
@@ -502,8 +502,8 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "traffic_users": 1265254443114,
-    "traffic_node": 3179007029198,
+    "traffic_users": 1280183816217,
+    "traffic_node": 3213511277386,
     "users": 0
   },
   {
@@ -527,7 +527,7 @@
     "api_path": "/api/v1",
     "public_key": "2f1a5352100ba48ce12aa10ad6618f057dc89299939b35bcfc600c584e646409",
     "node_id": 48179851837,
-    "scanned": "2026-03-01T13:13:18.791576Z",
+    "scanned": "2026-03-01T14:15:30.660674Z",
     "heartbeat": "2026-02-03T03:55:37.466114Z",
     "health_check": "2026-02-03T03:56:29.575186Z",
     "version": "1.1.4",
@@ -541,8 +541,8 @@
     "uptime_sec": 313716,
     "net_download": 5526,
     "net_upload": 440,
-    "traffic_users": 4328220701936,
-    "traffic_node": 10944720428972,
+    "traffic_users": 4356406648683,
+    "traffic_node": 11008721993685,
     "users": 3
   },
   {
@@ -566,7 +566,7 @@
     "api_path": "/api/v1",
     "public_key": "6fe7e0fbcd1e443941b70bd9ffe259d96d0f95c0dc5af7159fc37547b5fb2688",
     "node_id": 608138233827,
-    "scanned": "2026-03-01T13:13:18.172853Z",
+    "scanned": "2026-03-01T14:15:29.509992Z",
     "heartbeat": "2026-02-03T03:56:17.821865Z",
     "health_check": "2026-02-03T03:56:35.095263Z",
     "version": "1.1.4",
@@ -580,8 +580,8 @@
     "uptime_sec": 326599,
     "net_download": 5799,
     "net_upload": 382,
-    "traffic_users": 134057894586,
-    "traffic_node": 504583193000,
+    "traffic_users": 134606626732,
+    "traffic_node": 506541390002,
     "users": 0
   },
   {
@@ -605,7 +605,7 @@
     "api_path": "/api/v1",
     "public_key": "ee9aaba20d3a0aec82f1fa88f9ffab0113958eaa206c155e134a4531a1b202af",
     "node_id": 1848878100850,
-    "scanned": "2026-03-01T13:13:16.788493Z",
+    "scanned": "2026-03-01T14:15:27.816209Z",
     "heartbeat": "2026-02-03T03:56:15.783608Z",
     "health_check": "2026-02-03T03:56:35.690878Z",
     "version": "1.1.4",
@@ -619,8 +619,8 @@
     "uptime_sec": 312948,
     "net_download": 205675,
     "net_upload": 242651,
-    "traffic_users": 2435272582877,
-    "traffic_node": 5465388651310,
+    "traffic_users": 2450978244929,
+    "traffic_node": 5498518809634,
     "users": 3
   },
   {
@@ -644,7 +644,7 @@
     "api_path": "/api/v1",
     "public_key": "3977da6ee8778a6ad632aa9fec4fc6b767fda01f007b1c36511dac093139b310",
     "node_id": 90822282078216,
-    "scanned": "2026-03-01T13:13:15.178133Z",
+    "scanned": "2026-03-01T14:15:25.767340Z",
     "heartbeat": "2026-02-03T03:56:30.099431Z",
     "health_check": "2026-02-03T03:56:29.973923Z",
     "version": "1.1.4",
@@ -659,7 +659,7 @@
     "net_download": 978548,
     "net_upload": 1967544,
     "traffic_users": 97886873007,
-    "traffic_node": 451478761701,
+    "traffic_node": 451691472490,
     "users": 0
   },
   {
@@ -683,7 +683,7 @@
     "api_path": "/api/v1",
     "public_key": "1ac1984e11805e4d1c6267cb1173438dd2b48787ab0574e436420614796df2e8",
     "node_id": 48179839816,
-    "scanned": "2026-03-01T13:13:13.846265Z",
+    "scanned": "2026-03-01T14:15:23.998878Z",
     "heartbeat": "2026-02-03T03:56:19.917825Z",
     "health_check": "2026-02-03T03:56:37.375762Z",
     "version": "1.1.4",
@@ -697,8 +697,8 @@
     "uptime_sec": 315205,
     "net_download": 117742,
     "net_upload": 105950,
-    "traffic_users": 3297852567285,
-    "traffic_node": 8551287932259,
+    "traffic_users": 3309611324297,
+    "traffic_node": 8581276332315,
     "users": 2
   },
   {
@@ -722,7 +722,7 @@
     "api_path": "/api/v1",
     "public_key": "7bec7babd842c99ac681a425ea43c08e2c0390c3c96e1dce31f697da9bb97520",
     "node_id": 8182581978176,
-    "scanned": "2026-03-01T13:13:12.670376Z",
+    "scanned": "2026-03-01T14:15:22.515114Z",
     "heartbeat": null,
     "health_check": null,
     "version": "1.1.4",
@@ -736,8 +736,8 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "traffic_users": 16658704451,
-    "traffic_node": 117902574551,
+    "traffic_users": 16870376697,
+    "traffic_node": 118732251476,
     "users": 0
   },
   {
@@ -761,7 +761,7 @@
     "api_path": "/api/v1",
     "public_key": "10846484cf93dea2f6ab0bf6361b05d38bc7f3b6f4691846804f4718716a6582",
     "node_id": 4485881218235,
-    "scanned": "2026-03-01T13:13:11.438194Z",
+    "scanned": "2026-03-01T14:15:20.564817Z",
     "heartbeat": "2026-02-03T03:55:14.085761Z",
     "health_check": "2026-02-03T03:56:29.004646Z",
     "version": "1.1.4",
@@ -775,8 +775,8 @@
     "uptime_sec": 95226,
     "net_download": 88773,
     "net_upload": 73092,
-    "traffic_users": 3455756370508,
-    "traffic_node": 9162287881634,
+    "traffic_users": 3469206577797,
+    "traffic_node": 9197873342695,
     "users": 2
   },
   {
@@ -800,7 +800,7 @@
     "api_path": "/api/v1",
     "public_key": "2df2e6b29ec90513faf4dfe6a657b9a896e5cf9e84989b877bf677aa3eba0f16",
     "node_id": 88843879877,
-    "scanned": "2026-03-01T13:13:10.232794Z",
+    "scanned": "2026-03-01T14:15:18.094993Z",
     "heartbeat": "2026-02-03T03:56:21.945863Z",
     "health_check": "2026-02-03T03:56:37.680814Z",
     "version": "1.1.4",
@@ -814,8 +814,8 @@
     "uptime_sec": 334423,
     "net_download": 11042,
     "net_upload": 198,
-    "traffic_users": 265883874445,
-    "traffic_node": 1037339133142,
+    "traffic_users": 266963498185,
+    "traffic_node": 1040183513315,
     "users": 1
   },
   {
@@ -839,7 +839,7 @@
     "api_path": "/api/v1",
     "public_key": "9d7a5cd0f09c7516bb30be8a17c730f73359ceedaffffcfb2ee0c0a5e8231d57",
     "node_id": 8884387982,
-    "scanned": "2026-03-01T13:13:09.030643Z",
+    "scanned": "2026-03-01T14:15:15.980135Z",
     "heartbeat": "2026-02-03T03:55:48.029207Z",
     "health_check": "2026-02-03T03:56:30.882466Z",
     "version": "1.1.4",
@@ -853,8 +853,8 @@
     "uptime_sec": 334389,
     "net_download": 11982,
     "net_upload": 396,
-    "traffic_users": 300514379755,
-    "traffic_node": 1085336981403,
+    "traffic_users": 302968390940,
+    "traffic_node": 1092873840809,
     "users": 0
   },
   {
@@ -878,7 +878,7 @@
     "api_path": "/api/v1",
     "public_key": "ccab9e27fdb7b7abe679bb3f0cb63938de5812e434c62efd2371c64cde4c735d",
     "node_id": 948210840885,
-    "scanned": "2026-03-01T13:13:07.796766Z",
+    "scanned": "2026-03-01T14:15:13.958752Z",
     "heartbeat": null,
     "health_check": null,
     "version": "1.1.4",
@@ -892,8 +892,8 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "traffic_users": 3876192483042,
-    "traffic_node": 10157692361554,
+    "traffic_users": 3891828643521,
+    "traffic_node": 10195684265396,
     "users": 0
   },
   {
@@ -917,7 +917,7 @@
     "api_path": "/api/v1",
     "public_key": "9dbe9856a2464f646df24604a270a5397cea0b672f79b9013cc5fc245c3ad033",
     "node_id": 19282468728177,
-    "scanned": "2026-03-01T13:13:05.475812Z",
+    "scanned": "2026-03-01T14:15:11.596482Z",
     "heartbeat": "2026-02-03T03:55:54.896700Z",
     "health_check": "2026-02-03T03:56:32.685730Z",
     "version": "1.1.4",
@@ -931,8 +931,8 @@
     "uptime_sec": 272992,
     "net_download": 6673,
     "net_upload": 6499,
-    "traffic_users": 169065456039,
-    "traffic_node": 885810370247,
+    "traffic_users": 169890001600,
+    "traffic_node": 889534814153,
     "users": 0
   },
   {
@@ -956,7 +956,7 @@
     "api_path": "/api/v1",
     "public_key": "d80f4a808c9284f843fa9b81fe8490e6bc2f1754c0fc2a3b771ffaba0c2dcf26",
     "node_id": 177816182188222,
-    "scanned": "2026-03-01T13:13:04.233250Z",
+    "scanned": "2026-03-01T14:15:10.664565Z",
     "heartbeat": null,
     "health_check": null,
     "version": "1.1.4",
@@ -971,7 +971,7 @@
     "net_download": 0,
     "net_upload": 0,
     "traffic_users": 3805166831431,
-    "traffic_node": 9982468036517,
+    "traffic_node": 10012172668111,
     "users": 0
   },
   {
@@ -995,7 +995,7 @@
     "api_path": "/api/v1",
     "public_key": "a3017d09a77cdd5ae7f4bd7f925e1c46afb6b7f5c85e1f5374d5ba1c1c69b8e5",
     "node_id": 18481298211884,
-    "scanned": "2026-03-01T13:13:02.619191Z",
+    "scanned": "2026-03-01T14:15:08.603540Z",
     "heartbeat": "2026-02-03T03:55:48.445234Z",
     "health_check": "2026-02-03T03:56:32.368815Z",
     "version": "1.1.4",
@@ -1009,8 +1009,8 @@
     "uptime_sec": 282674,
     "net_download": 1883,
     "net_upload": 1983,
-    "traffic_users": 254455181253,
-    "traffic_node": 1274961028371,
+    "traffic_users": 255285861418,
+    "traffic_node": 1278840568661,
     "users": 0
   },
   {
@@ -1034,7 +1034,7 @@
     "api_path": "/api/v1",
     "public_key": "1e7c0f8cc0a4f9fe2f7cd3d2165e7684feb03ed9427208fb4a5050ecf97608d1",
     "node_id": 228105844814,
-    "scanned": "2026-03-01T13:13:01.158580Z",
+    "scanned": "2026-03-01T14:15:06.598663Z",
     "heartbeat": null,
     "health_check": null,
     "version": "1.1.4",
@@ -1048,8 +1048,8 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "traffic_users": 289998512280,
-    "traffic_node": 1074686902679,
+    "traffic_users": 291132970528,
+    "traffic_node": 1077838688308,
     "users": 0
   },
   {
@@ -1073,7 +1073,7 @@
     "api_path": "/api/v1",
     "public_key": "ddc79716c761d301bc2f31cb4b711eb7137d99d56b5ff27953cc58847c5d92fb",
     "node_id": 1848878100876,
-    "scanned": "2026-03-01T13:12:59.685991Z",
+    "scanned": "2026-03-01T14:15:04.100087Z",
     "heartbeat": "2026-02-03T03:56:23.479663Z",
     "health_check": "2026-02-03T03:56:38.072107Z",
     "version": "1.1.4",
@@ -1087,8 +1087,8 @@
     "uptime_sec": 316391,
     "net_download": 31242,
     "net_upload": 29556,
-    "traffic_users": 5099531958192,
-    "traffic_node": 11674292461333,
+    "traffic_users": 5109762266917,
+    "traffic_node": 11697346967182,
     "users": 1
   },
   {
@@ -1112,7 +1112,7 @@
     "api_path": "/api/v1",
     "public_key": "4f25d69a18d9d9d2bb3400f5a78a8bf3d5f36861e6a7cb8f6906d8da75c2caca",
     "node_id": 184821681968228,
-    "scanned": "2026-03-01T13:12:58.357119Z",
+    "scanned": "2026-03-01T14:15:01.778080Z",
     "heartbeat": "2026-02-03T03:55:53.398581Z",
     "health_check": "2026-02-03T03:56:31.902059Z",
     "version": "1.1.4",
@@ -1126,8 +1126,8 @@
     "uptime_sec": 283434,
     "net_download": 104955,
     "net_upload": 136378,
-    "traffic_users": 1466634691386,
-    "traffic_node": 3563019745840,
+    "traffic_users": 1468952347434,
+    "traffic_node": 3568533411090,
     "users": 3
   },
   {
@@ -1151,7 +1151,7 @@
     "api_path": "/api/v1",
     "public_key": "656f6f6f793fb89ba093ac3b8211bc92feb1a0b1fca3ac584bc507bc96c43392",
     "node_id": 8881498398135,
-    "scanned": "2026-03-01T13:12:56.231884Z",
+    "scanned": "2026-03-01T14:14:58.874930Z",
     "heartbeat": "2026-02-03T03:56:31.427666Z",
     "health_check": "2026-02-03T03:56:30.400205Z",
     "version": "1.1.4",
@@ -1165,8 +1165,8 @@
     "uptime_sec": 264884,
     "net_download": 204838,
     "net_upload": 568359,
-    "traffic_users": 2941608047817,
-    "traffic_node": 7595567513262,
+    "traffic_users": 2950897971438,
+    "traffic_node": 7619881885421,
     "users": 11
   },
   {
@@ -1190,7 +1190,7 @@
     "api_path": "/api/v1",
     "public_key": "3b89f7cf27240c1d39ef37acff8f8ac238025e8704e29ac9d4d9418639185dc5",
     "node_id": 212817781548199,
-    "scanned": "2026-03-01T13:12:54.283990Z",
+    "scanned": "2026-03-01T14:14:56.718845Z",
     "heartbeat": "2026-02-03T03:56:24.632104Z",
     "health_check": "2026-02-03T04:02:38.361155Z",
     "version": "1.1.4",
@@ -1204,8 +1204,8 @@
     "uptime_sec": 269544,
     "net_download": 222,
     "net_upload": 354,
-    "traffic_users": 397982398686,
-    "traffic_node": 2146876230859,
+    "traffic_users": 399143541057,
+    "traffic_node": 2152071858806,
     "users": 2
   },
   {
@@ -1229,7 +1229,7 @@
     "api_path": "/api/v1",
     "public_key": "0855ae5dea20161157948dc171d01ca5f616ec092a4d98bebeedce388e16ba99",
     "node_id": 308558203894,
-    "scanned": "2026-03-01T13:12:51.489967Z",
+    "scanned": "2026-03-01T14:14:54.910718Z",
     "heartbeat": null,
     "health_check": null,
     "version": "1.1.4",
@@ -1243,8 +1243,8 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "traffic_users": 237041227643,
-    "traffic_node": 770558524520,
+    "traffic_users": 238126093979,
+    "traffic_node": 773785720474,
     "users": 0
   },
   {
@@ -1268,7 +1268,7 @@
     "api_path": "/api/v1",
     "public_key": "a8db0baa4e8ab32e1aaee052fa00fad8a7351cfd6412b59dc8977939a4188565",
     "node_id": 44865815982,
-    "scanned": "2026-03-01T13:12:50.229701Z",
+    "scanned": "2026-03-01T14:14:53.453865Z",
     "heartbeat": null,
     "health_check": null,
     "version": "1.1.4",
@@ -1282,8 +1282,8 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "traffic_users": 2153282072601,
-    "traffic_node": 5679582047578,
+    "traffic_users": 2168876986398,
+    "traffic_node": 5716533500890,
     "users": 0
   },
   {
@@ -1307,7 +1307,7 @@
     "api_path": "/api/v1",
     "public_key": "c33e88777b6ceffe7000af5b96f14048a2162ba86b6e5c32abbac013ced821a1",
     "node_id": 150824082268114,
-    "scanned": "2026-03-01T13:12:48.276649Z",
+    "scanned": "2026-03-01T14:14:51.193710Z",
     "heartbeat": "2026-02-03T03:56:24.883937Z",
     "health_check": "2026-02-03T03:56:39.688678Z",
     "version": "1.1.4",
@@ -1321,8 +1321,8 @@
     "uptime_sec": 312548,
     "net_download": 831,
     "net_upload": 665,
-    "traffic_users": 3298880341851,
-    "traffic_node": 8345845101501,
+    "traffic_users": 3310656269214,
+    "traffic_node": 8374181936892,
     "users": 1
   },
   {
@@ -1346,7 +1346,7 @@
     "api_path": "/api/v1",
     "public_key": "bcb46722f795e38503620dd4f470c29a24b66931ceae4d3abc72c4e210a0c7df",
     "node_id": 21282258111865,
-    "scanned": "2026-03-01T13:12:46.186387Z",
+    "scanned": "2026-03-01T14:14:48.910224Z",
     "heartbeat": "2026-02-03T03:56:25.604620Z",
     "health_check": "2026-02-03T03:56:39.967509Z",
     "version": "1.1.4",
@@ -1360,8 +1360,8 @@
     "uptime_sec": 85295,
     "net_download": 60,
     "net_upload": 0,
-    "traffic_users": 330719975767,
-    "traffic_node": 1682270967562,
+    "traffic_users": 331271351455,
+    "traffic_node": 1685649066813,
     "users": 0
   },
   {
@@ -1385,7 +1385,7 @@
     "api_path": "/api/v1",
     "public_key": "6b0425440a590c94cac623442a00b4be0254bd9bd366970a47bdf661904d179e",
     "node_id": 1297982378223,
-    "scanned": "2026-03-01T13:12:44.171603Z",
+    "scanned": "2026-03-01T14:14:46.505884Z",
     "heartbeat": "2026-02-03T03:56:13.264387Z",
     "health_check": "2026-02-03T03:56:35.380099Z",
     "version": "1.1.4",
@@ -1399,8 +1399,8 @@
     "uptime_sec": 322172,
     "net_download": 1580,
     "net_upload": 2442,
-    "traffic_users": 494132853081,
-    "traffic_node": 1571865409580,
+    "traffic_users": 494392170759,
+    "traffic_node": 1573197844093,
     "users": 2
   },
   {
@@ -1424,7 +1424,7 @@
     "api_path": "/api/v1",
     "public_key": "d8e3b8704806ce095628fbf133cbfc37b57b45dad1bc238bb93368dd107d3ce0",
     "node_id": 19481328145874,
-    "scanned": "2026-03-01T13:12:42.564039Z",
+    "scanned": "2026-03-01T14:14:44.678949Z",
     "heartbeat": "2026-02-03T03:55:55.613531Z",
     "health_check": "2026-02-03T03:56:32.395882Z",
     "version": "1.1.4",
@@ -1438,8 +1438,8 @@
     "uptime_sec": 257571,
     "net_download": 6638,
     "net_upload": 7187,
-    "traffic_users": 1089710466492,
-    "traffic_node": 5420388864734,
+    "traffic_users": 1101740184606,
+    "traffic_node": 5476590980755,
     "users": 2
   },
   {
@@ -1463,7 +1463,7 @@
     "api_path": "/api/v1",
     "public_key": "b01d259434de07393001ffd7d1b67e3181e191b29eb339f3dea5d660c0e8105b",
     "node_id": 18381068178825,
-    "scanned": "2026-03-01T13:12:40.894577Z",
+    "scanned": "2026-03-01T14:14:42.656803Z",
     "heartbeat": null,
     "health_check": null,
     "version": "1.1.4",
@@ -1477,8 +1477,8 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "traffic_users": 86156203292,
-    "traffic_node": 595763301327,
+    "traffic_users": 86244872623,
+    "traffic_node": 596413343356,
     "users": 0
   },
   {
@@ -1502,7 +1502,7 @@
     "api_path": "/api/v1",
     "public_key": "95a655617b2552968eca587046418cd883dc8bad43658d333c8cb5de7b31d324",
     "node_id": 1648100863891,
-    "scanned": "2026-03-01T13:12:40.334086Z",
+    "scanned": "2026-03-01T14:14:41.838807Z",
     "heartbeat": "2026-02-03T03:56:22.242608Z",
     "health_check": "2026-02-03T03:56:35.796625Z",
     "version": "1.1.2",
@@ -1516,8 +1516,8 @@
     "uptime_sec": 316393,
     "net_download": 236609,
     "net_upload": 1220790,
-    "traffic_users": 371341755775,
-    "traffic_node": 1052374596022,
+    "traffic_users": 371595005932,
+    "traffic_node": 1053361498963,
     "users": 1
   },
   {
@@ -1541,7 +1541,7 @@
     "api_path": "/api/v1",
     "public_key": "d2e5f8e74b634f41c8a5d1f5066331ab9ccad40ed08dd1a872b93f2f6ec0c87b",
     "node_id": 18481298211879,
-    "scanned": "2026-03-01T13:12:38.811371Z",
+    "scanned": "2026-03-01T14:14:40.196955Z",
     "heartbeat": "2026-02-03T03:56:03.677787Z",
     "health_check": "2026-02-03T03:56:34.184876Z",
     "version": "1.1.4",
@@ -1555,8 +1555,8 @@
     "uptime_sec": 264851,
     "net_download": 6724,
     "net_upload": 7821,
-    "traffic_users": 272414840381,
-    "traffic_node": 1191578299320,
+    "traffic_users": 275188154536,
+    "traffic_node": 1203466690449,
     "users": 2
   },
   {
@@ -1580,7 +1580,7 @@
     "api_path": "/api/v1",
     "public_key": "abe7507075772510ce0abefeac25cae4401401c6a8512f6fad72dfbfe8fe3707",
     "node_id": 14189081088126,
-    "scanned": "2026-03-01T13:12:38.137825Z",
+    "scanned": "2026-03-01T14:14:39.437412Z",
     "heartbeat": null,
     "health_check": null,
     "version": "1.1.4",
@@ -1594,8 +1594,8 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "traffic_users": 134138743561,
-    "traffic_node": 630876516805,
+    "traffic_users": 134222532762,
+    "traffic_node": 631423825561,
     "users": 0
   },
   {
@@ -1619,7 +1619,7 @@
     "api_path": "/api/v1",
     "public_key": "ed9dc4e1207d42e75c379d987a3968a747f38f951754aa7d09472e56de837f1a",
     "node_id": 19388682068232,
-    "scanned": "2026-03-01T13:12:35.883344Z",
+    "scanned": "2026-03-01T14:14:37.287357Z",
     "heartbeat": "2026-02-03T03:56:27.054373Z",
     "health_check": "2026-02-03T03:56:39.299547Z",
     "version": "1.1.4",
@@ -1633,8 +1633,8 @@
     "uptime_sec": 281568,
     "net_download": 70871,
     "net_upload": 38466,
-    "traffic_users": 306705660103,
-    "traffic_node": 1442694591713,
+    "traffic_users": 306847178339,
+    "traffic_node": 1443701836389,
     "users": 0
   },
   {
@@ -1658,7 +1658,7 @@
     "api_path": "/api/v1",
     "public_key": "4c5e16230e6e13e54577050c2acb9e54a7bd16b257373a4dc8c8c0463d491ee6",
     "node_id": 368081958156,
-    "scanned": "2026-03-01T13:12:34.484183Z",
+    "scanned": "2026-03-01T14:14:35.516604Z",
     "heartbeat": "2026-02-03T03:55:40.943945Z",
     "health_check": "2026-02-03T03:56:29.490115Z",
     "version": "1.1.4",
@@ -1672,8 +1672,8 @@
     "uptime_sec": 313719,
     "net_download": 241036,
     "net_upload": 242818,
-    "traffic_users": 3154601321553,
-    "traffic_node": 7891589544356,
+    "traffic_users": 3159754308641,
+    "traffic_node": 7904555933230,
     "users": 6
   },
   {
@@ -1697,7 +1697,7 @@
     "api_path": "/api/v1",
     "public_key": "234e1731051886541b26642f19afb1d7c78fe6ec0a421076c73177df1a971d41",
     "node_id": 2281108138225,
-    "scanned": "2026-03-01T13:12:34.045445Z",
+    "scanned": "2026-03-01T14:14:34.985422Z",
     "heartbeat": null,
     "health_check": null,
     "version": "1.1.4",
@@ -1711,8 +1711,8 @@
     "uptime_sec": 0,
     "net_download": 0,
     "net_upload": 0,
-    "traffic_users": 533180105512,
-    "traffic_node": 2105400958796,
+    "traffic_users": 533994236459,
+    "traffic_node": 2108263598520,
     "users": 0
   }
 ]
